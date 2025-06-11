@@ -222,7 +222,6 @@ if st.button("🔮 Predict Next Days"):
         )
         st.altair_chart(pred_chart, use_container_width=True)
 
-st.markdown("---")
 
 
 st.markdown("""
