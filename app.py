@@ -235,8 +235,8 @@ This project is intended for educational and informational purposes.
 # --- Footer ---
 st.markdown("""
     <div style='text-align:center; font-size:13px; color: gray;'>
-        Developed by <b>Sharanya Godishala</b> |
-        <a href='https://github.com/Sharanya1236' target='_blank'>GitHub</a> |
-        <a href='https://www.linkedin.com/in/sharanya-godishala-a16998313/' target='_blank'>LinkedIn</a>
+        Developed by <b>Samudrala Phanindra Kumar</b> |
+        <a href='https://github.com/Itspk-max' target='_blank'>GitHub</a> |
+        <a href='www.linkedin.com/in/phanindra-kumar-50a271274' target='_blank'>LinkedIn</a>
     </div>
 """, unsafe_allow_html=True)
