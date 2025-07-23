@@ -231,11 +231,4 @@ StockSense is built using Python, Streamlit, scikit-learn, and yFinance.
 It empowers users to make smarter decisions with historical data insights and machine learning.
 This project is intended for educational and informational purposes.
 """)
-# --- Footer ---
-st.markdown("""
-    <div style='text-align:center; font-size:13px; color: gray;'>
-        Developed by <b>Samudrala Phanindra Kumar</b> |
-        <a href='https://github.com/Itspk-max' target='_blank'>GitHub</a> |
-        <a href='www.linkedin.com/in/phanindra-kumar-50a271274' target='_blank'>LinkedIn</a>
-    </div>
-""", unsafe_allow_html=True)
+
